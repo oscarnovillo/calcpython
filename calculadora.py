@@ -8,7 +8,7 @@ def main():
         print("3. Multiplicar")
         print("4. Dividir")
         print("4.5 calcular potencia")
-        print("4. Divid")
+        print("4. D")
         print("5. Salir")
         opcion = input("Elija una opción: ")
         print("opcion",opcion)
