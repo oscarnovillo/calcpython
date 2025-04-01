@@ -3,10 +3,12 @@ def main():
     seguir = True
     while seguir:
         print("Calculadora")
-        print("1. Sumar mata mas que antes")
+        print("1. S ")
         print("2. Restar")
         print("3. Multiplicar")
-        print("4. Divid")
+        print("4. Dividir")
+        print("4.5 calcular potencia")
+        print("4. D")
         print("5. Salir")
         opcion = input("Elija una opción: ")
         print("opcion",opcion)
