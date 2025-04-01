@@ -13,7 +13,6 @@ def main():
         opcion = input("Elija una opción: ")
         print("opcion",opcion)
         if opcion == "1":
-            numero1 = float(input("primer número: "))
             numero2 = float(input("Ingrese el segundo número: "))
             resultado = numero1 + numero2
             print("El resultado de la suma es: ", resultado)
