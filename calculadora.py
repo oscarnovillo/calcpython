@@ -2,7 +2,7 @@
 def main():
     seguir = True
     while seguir:
-        print("Calculadora")
+        print("Calculadora para github")
         print("1. S ")
         print("2. Restar")
         print("3. Multiplicar")
