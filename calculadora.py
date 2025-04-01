@@ -18,6 +18,7 @@ def main():
             resultado = numero1 + numero2
             print("El resultado de la suma es: ", resultado)
             print("esto no vale")
+            print("esto tampoco")
         seguir = opcion != "5"
 
     
