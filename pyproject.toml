@@ -1,0 +1,3 @@
+[tool.black]
+line-length = 88
+target-version = ['py312'] # Descomenta y ajusta a las versiones de Python que uses
