@@ -1,2 +1,2 @@
-!/bin/bash
-Archivo creado por jmrc47
+#!/bin/bash
+#Archivo creado por jmrc47
